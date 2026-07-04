@@ -242,27 +242,37 @@ Enterprise-AI-Knowledge-System
 
 ---
 
-# 📷 Screenshots
+# 📷 Application Screenshots
 
-Add screenshots here after deployment.
+## Login
 
-Example:
-
-```
-screenshots/
-
-login.png
-
-dashboard.png
-
-upload.png
-
-chat.png
-
-documents.png
-```
+![Login](screenshots/Employee_login.png)
 
 ---
+
+## Registration
+
+![Registration](screenshots/New_Employee_Registration.png)
+
+---
+
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## Upload Documents
+
+![Upload](screenshots/File_Upload.png)
+
+---
+
+## AI Chat
+
+![Chat](screenshots/chatbox.png)
+![Chat](screenshots/AI_Based_Response.png)
+
 
 # 📡 API Endpoints
 
