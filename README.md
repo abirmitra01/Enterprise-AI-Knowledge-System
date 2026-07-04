@@ -379,19 +379,32 @@ This project demonstrates practical implementation of
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Authors
 
 **Abir Mitra**
 
 B.Tech Electronics & Communication Engineering
 
-AI | Machine Learning | Generative AI | Full Stack Development
+AI | Machine Learning | Generative AI | Full Stack Development | Python
 
-GitHub:
-https://github.com/abirmitra01
+Email:
+abirmitra001@gmail.com
 
 LinkedIn:
-(Add your LinkedIn profile)
+https://linkedin.com/in/abir-mitra-7b4a98253
+
+**Srinjoy Saha**
+
+B.Tech Electronics & Communication Engineering
+
+AI | Machine Learning | Python
+
+Email:
+srinjoysaha3107@gmail.com
+
+LinkedIn:
+https://linkedin.com/in/
+
 
 ---
 
